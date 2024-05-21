@@ -28,9 +28,9 @@ Connect with me:
 ## 🚀 Projects:
 | Project | Tech Stack | Repo | Link |
 | --- | --- | --- | --- |
-| **3D Solar System Explorer** | Next.js, Redux Toolkit, Three.js, Chakra UI, MongoDB, NextAuth, Cloudinary, TypeScript, Vercel | [GitHub](https://github.com/Sathesh-Ram/job-search) | [Live Demo](#) |
-| **Festify** | React, Redux, TypeScript, Node.js, Express.js, MongoDB | [GitHub](https://github.com/Sathesh-Ram/job-preparation) | [Live Demo](#) |
-| **Weightlifting Workout Planner** | React, Express.js, MongoDB | [GitHub](https://github.com/Sathesh-Ram/tp-counterfeiter) | [Live Demo](#) |
+| **3D Solar System Explorer** | Next.js, Redux Toolkit, Three.js, Chakra UI, MongoDB, NextAuth, Cloudinary, TypeScript, Vercel | [GitHub]([https://github.com/Sathesh-Ram/job-search](https://github.com/langedoc/3D-solar-system-explorer)) | [Live Demo](#) |
+| **Festify** | React, Redux, TypeScript, Node.js, Express.js, MongoDB | [GitHub](https://github.com/Sathesh-Ram/Festival-Explorer-by-Jason-Wong--with-Timon-Sejbuk) | [Live Demo](#) |
+| **Weightlifting Workout Planner** | React, Express.js, MongoDB | [GitHub](https://github.com/Sathesh-Ram/Workout-Tracker-App) | [Live Demo](#) |
 
 ## 📊 My Stats:
 ![Sathesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathesh-Ram&show_icons=true&theme=radical)
