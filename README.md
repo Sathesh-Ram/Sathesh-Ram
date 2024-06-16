@@ -30,9 +30,6 @@ Connect with me:
 | --- | --- | --- | --- |
 | **Weightlifting Workout Planner** | React, Express.js, MongoDB | [GitHub](https://github.com/Sathesh-Ram/Workout-Tracker-A) | [Live Demo](#) |
 
-## 📊 My Stats:
-![Sathesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sathesh-Ram&show_icons=true&theme=radical)
-
 <!-- Optional: Add more stats like streak and top languages -->
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sathesh-Ram&theme=dark)
