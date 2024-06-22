@@ -25,11 +25,6 @@ Connect with me:
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 
-## 🚀 Projects:
-| Project | Tech Stack | Repo | Link |
-| --- | --- | --- | --- |
-| **Weightlifting Workout Planner** | React, Express.js, MongoDB | [GitHub](https://github.com/Sathesh-Ram/Workout-Tracker-A) | [Live Demo](#) |
-
 <!-- Optional: Add more stats like streak and top languages -->
 <!--
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sathesh-Ram&theme=dark)
